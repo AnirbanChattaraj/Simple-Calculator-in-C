@@ -52,5 +52,4 @@ Made with ❤️, logic, and caffeine.
 If you like it —
 ⭐ Star it • 🍴 Fork it • 🚀 Improve it
 
-<h3 align="center">Happy Coding & Stay Funky! 😎</h3> ```gcc calculator.c -o calculator
-./calculator
+
