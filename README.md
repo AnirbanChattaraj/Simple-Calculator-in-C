@@ -45,8 +45,7 @@ Great for practicing:
 2️⃣ Compile it using a C compiler  
 3️⃣ Run it in your terminal or IDE
 
-Example (GCC):
-```bash👤 Author
+👤 Author Anirban Chattaraj
 
 Made with ❤️, logic, and caffeine.
 If you like it —
